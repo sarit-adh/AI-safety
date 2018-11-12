@@ -2,17 +2,17 @@
 
 ## Value alignment and corrigibility
 
-http://papers.nips.cc/paper/6420-cooperative-inverse-reinforcement-learning.pdf
+**Cooperative Inverse Reinforcement Learning** (2016), D Hadfield-Menell et al. [[pdf]](http://papers.nips.cc/paper/6420-cooperative-inverse-reinforcement-learning.pdf)
 
-https://hrilab.tufts.edu/publications/aaai17-alignment.pdf
 
-http://papers.nips.cc/paper/6391-generative-adversarial-imitation-learning.pdf
+**Value Alignment or Misalignment – WhatWill Keep Systems Accountable** (2017), T Arnold et al. [[pdf]](https://hrilab.tufts.edu/publications/aaai17-alignment.pdf)
+
 
 https://ai-alignment.com/model-free-decisions-6e6609f5d99e
 
-https://arxiv.org/pdf/1711.09883.pdf
+**AI Safety Gridworlds** (2017), J Leike et al. [[pdf]](https://arxiv.org/pdf/1711.09883.pdf)
 
-https://people.eecs.berkeley.edu/~dhm/papers/off_switch_AAAI_ws.pdf
+**The Off-Switch Game** (2017), D Hadfield-Menell [[pdf]](https://people.eecs.berkeley.edu/~dhm/papers/off_switch_AAAI_ws.pdf)
 
 
 ## Inverse Reinforcement learning
